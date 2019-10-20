@@ -1,4 +1,4 @@
-[persons name].has announced that his [adjective] clothing
+Eduardo.has announced that his [adjective] clothing
 store in the heart of downtown [city] is having a [adjective]
 sale of all merchandise, including [adjective] suits
 and slightly irregular [plural article of clothing]. Men's cable-knit
